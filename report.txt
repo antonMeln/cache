@@ -1,0 +1,30 @@
+----------------------/1Mb/-------------------------
+
+Warm Succes
+direction forward time 638 ms
+direction revers time 759 ms
+random time 6890 ms
+----------------------/2Mb/-------------------------
+
+Warm Succes
+direction forward time 1244 ms
+direction revers time 1487 ms
+random time 13821 ms
+----------------------/4Mb/-------------------------
+
+Warm Succes
+direction forward time 2508 ms
+direction revers time 2986 ms
+random time 27333 ms
+----------------------/8Mb/-------------------------
+
+Warm Succes
+direction forward time 5104 ms
+direction revers time 6100 ms
+random time 55444 ms
+----------------------/12Mb/-------------------------
+
+Warm Succes
+direction forward time 7607 ms
+direction revers time 8928 ms
+random time 81922 ms
